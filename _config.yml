@@ -6,9 +6,9 @@ color:
   saturation: 0.9230367764830589
   rhythmicContrast: 0.35788928670808673
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FFFFFF'
+    - '#4C658E'
+    - '#AEBBCB'
+    - '#D32D39'
+    - '#182957'
 name: US AmerInsure
