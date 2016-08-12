@@ -1,0 +1,14 @@
+layout_spectrum: 0.8922366676852107
+typography_spectrum: 0.9401303981430829
+color:
+  brandStrength: 0.6904141562990844
+  lightness: 0.15567349339835346
+  saturation: 0.9230367764830589
+  rhythmicContrast: 0.35788928670808673
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: US AmerInsure
